@@ -24,4 +24,8 @@ Detecting button presses using state changes
 Basic software debouncing
 Organizing C++ code using header (.h) and source (.cpp) files
 Creating reusable helper functions
+<<<<<<< HEAD
 Using the Serial Monitor for debugging
+=======
+Using the Serial Monitor for debugging
+>>>>>>> 19bd77bc269ad8256bc923853b7da17c468a2a87
